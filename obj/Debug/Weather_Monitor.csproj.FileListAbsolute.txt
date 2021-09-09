@@ -1,0 +1,82 @@
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe.config
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.pdb
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csprojAssemblyReference.cache
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.g.cs
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\App.g.cs
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.cache
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.lref
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.baml
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.g.resources
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.Properties.Resources.resources
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.GenerateResource.cache
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.exe
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.pdb
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio 2019\repos\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CopyComplete
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe.config
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.pdb
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csprojAssemblyReference.cache
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.g.cs
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\App.g.cs
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.cache
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.lref
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.baml
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.g.resources
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.Properties.Resources.resources
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.GenerateResource.cache
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CopyComplete
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.exe
+C:\Users\klyue\Downloads\Weather_Monitor\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.pdb
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe.config
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.pdb
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.dll
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.xml
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csprojAssemblyReference.cache
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.g.cs
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\App.g.cs
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.cache
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.lref
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.baml
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.g.resources
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.Properties.Resources.resources
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.GenerateResource.cache
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CoreCompileInputs.cache
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CopyComplete
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.exe
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.pdb
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignColors.dll
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignColors.pdb
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Программы\БГУИР\ОАИП\Курсовая\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe.config
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.exe
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\Weather_Monitor.pdb
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.cache
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor_MarkupCompile.lref
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.g.resources
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.Properties.Resources.resources
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.csproj.CopyComplete
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.exe
+C:\Users\Admin\Desktop\Weather_Monitor\Weather_Monitor\obj\Debug\Weather_Monitor.pdb
